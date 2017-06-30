@@ -9,6 +9,8 @@ python爬取中国商标网的信息
 
 3. 如何入门python爬虫 https://www.zhihu.com/question/20899988/answer/24923424?group_id=252360038  
 
+4. 爬取豆瓣电影 http://www.cnblogs.com/Shirlies/p/4536880.html
+
    ## 起始网站  
 
    [中国商标网]([http://wsjs.saic.gov.cn/txnS01.do?locale=zh_CN])
