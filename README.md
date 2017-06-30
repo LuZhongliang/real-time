@@ -9,7 +9,9 @@ python爬取中国商标网的信息
 
 3. 如何入门python爬虫 https://www.zhihu.com/question/20899988/answer/24923424?group_id=252360038  
 
-4. 爬取豆瓣电影 http://www.cnblogs.com/Shirlies/p/4536880.html
+4. 爬取豆瓣电影 http://www.cnblogs.com/Shirlies/p/4536880.html 
+
+5. webMagic框架 http://webmagic.io/docs/zh/posts/chx-cases/basic-list-target.html
 
    ## 起始网站  
 
